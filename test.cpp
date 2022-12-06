@@ -13,6 +13,7 @@ int main()
 
     cout << i << endl;
     cout << tar[1] << endl;
+    cout << tar[1] << endl;
     
 
     return 0;
